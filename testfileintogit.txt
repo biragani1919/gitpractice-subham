@@ -1,0 +1,6 @@
+what is the confusion to you
+when you start git init deafault github already stored your 
+hub url credentials, until unless you change , 
+it will consider the same URL as your origin, whatever the code you are trying to update and 
+push it will reach to same origin where it is registered. trying to push from another branch called master
+to another branch.
