@@ -12,3 +12,5 @@ Have delted previous branches on local git and github level also
 to check the pullrequest and merge works or not.
 
 created dev to check pull and merge
+After git merge successfully new updates pulled into master branch in local
+now trying to push it to dev branch and after that will try to pr and merge
