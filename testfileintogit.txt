@@ -10,3 +10,5 @@ initiate pull request and merge to practice
 
 Have delted previous branches on local git and github level also
 to check the pullrequest and merge works or not.
+
+created dev to check pull and merge
