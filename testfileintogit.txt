@@ -1,0 +1,16 @@
+what is the confusion to you
+when you start git init deafault github already stored your 
+hub url credentials, until unless you change , 
+it will consider the same URL as your origin, whatever the code you are trying to update and 
+push it will reach to same origin where it is registered.
+trying to merge
+I have created new branch challed test from master and trying to
+initiate pull request and merge to practice
+
+
+Have delted previous branches on local git and github level also
+to check the pullrequest and merge works or not.
+
+created dev to check pull and merge
+After git merge successfully new updates pulled into master branch in local
+now trying to push it to dev branch and after that will try to pr and merge
